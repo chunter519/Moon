@@ -1,7 +1,7 @@
 # Site
 title:              Brenda Hunter
 bio:                "Brenda Hunter plays hammered dulcimer with uncommon precision, flair, and beauty. Her skilful arrangements of traditional Irish and old time folk music reveal the eclectic influences of jazz, rock, and the classics. She performs—solo and with her band—and she teaches. This is the place to learn more about Brenda and her music! Welcome!"
-description:        'Hammered Dulcimer for all Occassions'
+description:        'Hammered Dulcimer For All Occassions'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/brenda-profile.jpg'
@@ -39,7 +39,7 @@ sass:
 #bing-verify:
 email: brendajhunter@sbcglobal.net
 #twitter:            username
-facebook:           username
+facebook:           https://www.facebook.com/brenda.hunter.7737?ref=br_rs
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
@@ -52,7 +52,7 @@ facebook:           username
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-#youtube:           username
+youtube:           https://www.youtube.com/view_play_list?p=1EAEEBB91AB44B08
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
