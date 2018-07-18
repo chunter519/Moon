@@ -1,14 +1,14 @@
 # Site
 title:              Brenda Hunter
-bio:                'Hammered Dulcimer'
-description:        "Brenda Hunter plays hammered dulcimer with uncommon precision, flair, and beauty. Her skilful arrangements of traditional Irish and old time folk music reveal the eclectic influences of jazz, rock, and the classics. She performs—solo and with her band—and she teaches. This is the place to learn more about Brenda and her music! Welcome!"
+bio:                "Brenda Hunter plays hammered dulcimer with uncommon precision, flair, and beauty. Her skilful arrangements of traditional Irish and old time folk music reveal the eclectic influences of jazz, rock, and the classics. She performs—solo and with her band—and she teaches. This is the place to learn more about Brenda and her music! Welcome!"
+description:        'Hammered Dulcimer for all Occassions'
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/brenda-profile.jpg'
+background:         'assets/img/dulcimerbackground.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://chunter519.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+# disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
