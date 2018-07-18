@@ -4,7 +4,7 @@ bio:                "Brenda Hunter plays hammered dulcimer with uncommon precisi
 description:        'Hammered Dulcimer For All Occassions'
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/brenda-profile.jpg'
+logo:               'assets/img/brenda-profile-01.jpg'
 background:         'assets/img/defaultbackground.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
