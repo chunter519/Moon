@@ -1,11 +1,11 @@
 # Site
 title:              Brenda Hunter
-bio:                "Brenda Hunter plays hammered dulcimer with uncommon precision, flair, and beauty. Her skilful arrangements of traditional Irish and old time folk music reveal the eclectic influences of jazz, rock, and the classics. She performs—solo and with her band—and she teaches. This is the place to learn more about Brenda and her music! Welcome!"
+bio:                "Brenda Hunter plays hammered dulcimer with uncommon precision, flair, and beauty. Her skillful arrangements of traditional Irish and old time folk music reveal the eclectic influences of jazz, rock, and the classics. She performs—solo and with her band—and she teaches. This is the place to learn more about Brenda and her music! Welcome!"
 description:        'Hammered Dulcimer For All Occassions'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/brenda-profile.jpg'
-background:         'assets/img/dulcimerbackground.jpg'
+background:         'assets/img/defaultbackground.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://chunter519.github.io
